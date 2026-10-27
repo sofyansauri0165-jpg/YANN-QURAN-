@@ -1,0 +1,6 @@
+{
+  "name": "YANN QURAN",
+  "description": "Aplikasi Al-Qur'an Digital yang nyaman, elegan, dan modern dengan nuansa Deep Forest Green dan Royal Gold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
